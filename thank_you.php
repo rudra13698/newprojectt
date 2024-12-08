@@ -59,6 +59,6 @@ $message = "Your order has been placed successfully.";
         <p><?= htmlspecialchars($message) ?></p>
     </div>
     <a href="show_orders.php">View Your Orders</a>
-    <a href="index.php" class="return-home">Return to Home</a>
+    <a href="index.php" class="return-home">Return to Home Page</a>
 </body>
 </html>
